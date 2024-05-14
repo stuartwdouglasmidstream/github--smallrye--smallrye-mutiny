@@ -56,7 +56,7 @@
     </snapshotRepository>
   </distributionManagement>
   <properties>
-    <version.gpg.plugin>3.2.0</version.gpg.plugin>
+    <version.gpg.plugin>3.2.4</version.gpg.plugin>
     <version.nexus.staging.plugin>1.6.13</version.nexus.staging.plugin>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <version.versions.plugin>2.16.2</version.versions.plugin>
